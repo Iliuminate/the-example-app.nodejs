@@ -42,4 +42,5 @@ router.get('/imprint', catchErrors(getImprint))
 // Imprint route
 router.get('/apple-app-site-association', catchErrors(getImprint))
 
+
 module.exports = router
