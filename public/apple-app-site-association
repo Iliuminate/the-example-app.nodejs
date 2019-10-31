@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "D65J7P935M.com.test.Universal-Linkage",
+      "paths": ["/users/*"]
+    }
+    ]
+  }
+}

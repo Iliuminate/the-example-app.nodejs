@@ -39,8 +39,8 @@ router.post('/settings', catchErrors(postSettings))
 // Imprint route
 router.get('/imprint', catchErrors(getImprint))
 
-// Imprint route
-router.get('/apple-app-site-association', catchErrors(getImprint))
+// Deeplinks route
+// router.get('/apple-app-site-association', catchErrors(getImprint))
 
 
 module.exports = router
